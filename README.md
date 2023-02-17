@@ -6,9 +6,9 @@
 <br>
 ![image](https://user-images.githubusercontent.com/91731654/199312436-295b76fb-05a1-495e-ad95-1cf42a665aea.png)
 <br>
-**Welcome to the this ultimate repository which will turn you into a WEB3 Developer!**
+**Welcome to this ultimate repository which will turn you into a WEB3 Developer!**
 <br>
-> ⚠️ All the code associated with this repository is written by me, and is intended to help learners to take reference from it and build their own amazing stuffs. Please don't copy paste the exact code if you find yourself in trouble while coding, instead take reference and then build intuition for it and code yourself. I highly support project based learning and suggest everyone to make projects while learning, because that will shine in your resume and also enhance your portfolio!
+> ⚠️ All the code associated with this repository is written by me, and is intended to help learners to take reference from it and build their own amazing stuff. Please don't copy paste the exact code if you find yourself in trouble while coding, instead take reference and then build intuition for it and code yourself. I highly support project based learning and suggest everyone to make projects while learning, because that will shine in your resume and also enhance your portfolio!
 
 # Web3 Oracle:
 <p align="center">
